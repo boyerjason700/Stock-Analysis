@@ -6,7 +6,7 @@ Analyze stock data for two different years to show annual volume and return.
 ### Purpose
 Steve has requested our help with this data to analyze annual volumes and returns for multiple stocks.  Using VBA, we will automate analyses for Steve to use to assist his clients.  After automating the analysis first, we will then refractor the VBA code to make it run faster, to allow Steve to use it for thousands of stocks.
 ### Background
-Steve has just graduated with his finance degree and will be using our help to analyze stocks for his first clients, his parents.  They are passionate about green energy, particularly DAQO New Energy Corp (DQ).  Steve has some concerns about them needing to diversity their portfolio and will be using this data to assist in that decision.
+Steve has just graduated with his finance degree and will be using our help to analyze stocks for his first clients, his parents.  They are passionate about green energy, particularly DAQO New Energy Corp ($DQ).  Steve has some concerns about them needing to diversity their portfolio and will be using this data to assist in that decision.
 ![Steve_Parents_2_85](https://user-images.githubusercontent.com/74840026/124373378-c07a6400-dc46-11eb-9512-1293b1dfc6a1.png)
 
 ## Analysis and Challenges
