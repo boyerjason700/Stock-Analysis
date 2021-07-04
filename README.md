@@ -13,12 +13,12 @@ Steve has just graduated with his finance degree and will be using it to analyiz
 ## Analysis and Challenges
 ## Results
 ### Original results
-Using VBA to analysize the data, our first attempt took roughly 0.75 seconds to operate. 
+Using VBA to analysize the data, our first attempt took roughly 0.75 seconds to operate.  With this method, we used nested for loops to run through the data multiple times to collect the volumes and prices.
 ![2017 before](https://user-images.githubusercontent.com/74840026/124373481-68902d00-dc47-11eb-96ef-c8ed4d28a43a.PNG)
 ![2018 before](https://user-images.githubusercontent.com/74840026/124373482-6af28700-dc47-11eb-9bcd-59be0bc733ae.PNG)
 
 ### Refactored results
-Once refractored, our code took aproximatly 0.12 seconds to operate, giving us our results in less time.
+Once refractored, our code took aproximatly 0.12 seconds to operate, giving us our results in less time.  With the refractored code, we used a for loop to go through the data one time, collecting the volumes and prices for each stock and storing them into arrays.
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/74840026/124373500-91182700-dc47-11eb-8c88-d9407de0fcb2.PNG)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/74840026/124373501-92e1ea80-dc47-11eb-840a-aabc6d050023.PNG)
 
